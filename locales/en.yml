@@ -1,0 +1,33 @@
+components:
+  language_switcher:
+    change_language: change language
+  theme_switcher:
+    theme: theme
+    change_theme: change theme
+pages:
+  index:
+    title: nuxt3[]boilerplate
+  home:
+    nav: home
+    title: home
+    description: this is a home page
+  test:
+    nav: test
+    title: test
+    description: this is a test page
+    counter: counter
+    increment: increment
+    decrement: decrement
+    reset: reset
+  post:
+    nav: post
+    title: post
+    description: this is a post page
+  setting:
+    nav: setting
+    title: setting
+    description: this is a setting page
+  about:
+    nav: about
+    title: about
+    description: this is an about page

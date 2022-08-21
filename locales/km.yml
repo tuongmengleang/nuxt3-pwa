@@ -1,0 +1,33 @@
+components:
+  language_switcher:
+    change_language: ប្ដូរភាសា
+  theme_switcher:
+    theme: ប្រធានបទ
+    change_theme: ផ្លាស់ប្តូរប្រធានបទ
+pages:
+  index:
+    title: nuxt3[]boilerplate
+  home:
+    nav: ផ្ទះ
+    title: ផ្ទះ
+    description: នេះគឺជាទំព័រដើម
+  test:
+    nav: សាកល្បង
+    title: សាកល្បង
+    description: នេះគឺជាទំព័រសាកល្បង
+    counter: បញ្ជរ
+    increment: ការកើនឡើង
+    decrement: ការថយចុះ
+    reset: កំណត់ឡើងវិញ
+  post:
+    nav: ប្រកាស
+    title: ប្រកាស
+    description: នេះជាទំព័រប្រកាស
+  setting:
+    nav: ការកំណត់
+    title: ការកំណត់
+    description: នេះគឺជាទំព័រកំណត់
+  about:
+    nav: អំពី
+    title: អំពី
+    description: នេះគឺជាទំព័រអំពី

@@ -1,0 +1,33 @@
+components:
+  language_switcher:
+    change_language: เปลี่ยนภาษา
+  theme_switcher:
+    theme: ธีม
+    change_theme: เปลี่ยนธีม
+pages:
+  index:
+    title: nuxt3[]หม้อต้ม
+  home:
+    nav: บ้าน
+    title: บ้าน
+    description: นี่คือหน้าแรก
+  test:
+    nav: ทดสอบ
+    title: ทดสอบ
+    description: นี่คือหน้าทดสอบ
+    counter: เคาน์เตอร์
+    increment: เพิ่มขึ้น
+    decrement: ลดลง
+    reset: รีเซ็ต
+  post:
+    nav: โพสต์
+    title: โพสต์
+    description: นี่คือหน้าโพสต์
+  setting:
+    nav: การตั้งค่า
+    title: การตั้งค่า
+    description: นี่คือหน้าการตั้งค่า
+  about:
+    nav: เกี่ยวกับ
+    title: เกี่ยวกับ
+    description: นี่คือเพจเกี่ยวกับ
